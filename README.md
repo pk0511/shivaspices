@@ -35,6 +35,11 @@ If you'd like, I can:
 - Walk you through any step in real time
 - Add custom content (logo, real product images) if you upload them
 
+New page: Facilities
+--------------------
+
+I added a `facilities.html` page describing on-site infrastructure (Sun-drying, Stemless Preparation Yards, Dry-chilli Cleaning & Grinding Unit, Cold Storage Unit). The site navigation now includes a "Facilities" tab linking that page.
+
 Run locally
 -----------
 
