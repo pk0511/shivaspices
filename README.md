@@ -34,3 +34,32 @@ If you'd like, I can:
 - Create the GitHub repo and push files (I cannot access your GitHub; you'll need to run the push step)
 - Walk you through any step in real time
 - Add custom content (logo, real product images) if you upload them
+
+Run locally
+-----------
+
+This repo is a static site — you can run it on your machine with a tiny HTTP server.
+
+1) Quick (foreground):
+
+```bash
+cd /path/to/shivaspices
+python3 -m http.server 8000 --bind 127.0.0.1
+# then open http://127.0.0.1:8000 in your browser
+```
+
+2) Convenience script (background):
+
+```bash
+cd /path/to/shivaspices
+./start.sh -d
+# prints PID and log path (/tmp/shivaspices-server.log)
+```
+
+3) Stopping the background server:
+
+```bash
+kill <PID>
+```
+
+Tip: Use the browser DevTools (Network tab) to inspect image requests and confirm they return HTTP 200.
