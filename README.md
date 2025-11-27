@@ -1,4 +1,4 @@
-Shiva's Chilli Products - Static Website (GitHub Pages)
+Shiva's Spices - Static Website (GitHub Pages)
 --------------------------------------------------------
 
 What's included:
