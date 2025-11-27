@@ -40,6 +40,8 @@ New page: Facilities
 
 I added a `facilities.html` page describing on-site infrastructure (Sun-drying, Stemless Preparation Yards, Dry-chilli Cleaning & Grinding Unit, Cold Storage Unit). The site navigation now includes a "Facilities" tab linking that page.
 
+I also generated four small SVG illustration assets stored under `assets/` and added them to `facilities.html` so the sections render consistently offline.
+
 Run locally
 -----------
 
