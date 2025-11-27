@@ -42,6 +42,12 @@ I added a `facilities.html` page describing on-site infrastructure (Sun-drying, 
 
 I also generated four small SVG illustration assets stored under `assets/` and added them to `facilities.html` so the sections render consistently offline.
 
+Header image (Byadgi chilli)
+--------------------------------
+The site header now uses a Byadgi chilli photo downloaded from Wikimedia Commons and stored at `assets/header-byadgi.jpg`.
+
+Image credit: "Byadgi Chilli.jpg" by Rajaramraok — licensed under CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Byadgi_Chilli.jpg
+
 Run locally
 -----------
 
